@@ -1,6 +1,6 @@
-# Temperature-control
+# Temperature monitoring control
  
-This project was developed to control a heater by using and Arduino UNO, an opto-isolated triac, a LM35 sensor, a light bulb and a cover for the light bulb to conserve the temperture.
+This project was developed to control a light bulb heater by using and Arduino UNO, an opto-isolated triac, a LM35 sensor, a light bulb and a cover for the light bulb to maintain the temperture.
  
 Software used:
 - Arduino IDE
