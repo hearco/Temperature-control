@@ -50,15 +50,6 @@ DenGc = ki * (z - 1) * (z^2 * TimeValue^2);
 //*********************************************************************
 
 // ****************set default parameter values here ********************
-//kp = 20.1658;  // proportional gain
-//ki = 38.365;  // integral gain
-//kd = 1.939;   // derivative gain
-//setPoint = 40;
-//stepValue = 20;
-//TimeValue = 3;
-
-
-// ****************set default parameter values here ********************
 kp = 7.996;  // proportional gain
 ki = 29.331;  // integral gain
 kd = 0.401;   // derivative gain
